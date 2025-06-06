@@ -54,13 +54,13 @@ python main.py
 ## File Structure
 ```plain 
 <repository-directory>/
-├── app.py              # Main script containing the code
 ├── content/            # Directory for example images
 │   ├── lion.jpg
 │   ├── cheetah.jpg
 │   ├── armadillo.jpg
 │   ├── bear.jpg
 │   └── gorilla.jpg
+├── main.py              # Main script containing the code
 └── README.md           # This file
 ```
 
